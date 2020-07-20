@@ -2,7 +2,7 @@
 
 1. Create an empty project
 ```
-django-admin startproject app-name
+django-admin startproject app_name
 ```
 
 2. Run project
